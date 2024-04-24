@@ -1,0 +1,20 @@
+{
+  "blockId": "j-NHt0gu_zrkbWsgAyrls",
+  "name": "memberone",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/AdithyanNeoito/container2.git",
+    "ssh": "git@github.com:AdithyanNeoito/container2.git",
+    "branch": "block_memberone"
+  },
+  "parentBlockIDs": [
+    "KJ2KUpG0nJaYDMAJDmbOK"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
