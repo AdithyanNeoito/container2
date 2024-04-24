@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "KJ2KUpG0nJaYDMAJDmbOK",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/AdithyanNeoito/container2.git",
+    "ssh": "git@github.com:AdithyanNeoito/container2.git",
     "branch": "block_container2"
   },
   "parentBlockIDs": [],
