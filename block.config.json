@@ -1,0 +1,24 @@
+{
+  "name": "container2",
+  "type": "package",
+  "blockId": "KJ2KUpG0nJaYDMAJDmbOK",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_container2"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "memberone": {
+      "directory": "memberone"
+    },
+    "membertwo": {
+      "directory": "membertwo"
+    }
+  }
+}
